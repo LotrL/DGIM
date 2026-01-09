@@ -1,6 +1,6 @@
 # DGIM: Cascaded Dynamic Data Generation for Robust Cross-Modal Image Matching
 
-Paper Link: https://ieeexplore.ieee.org/document/11095750
+Paper Link: https://ieeexplore.ieee.org/document/11213501
 
 *The authors are busy job hunting for now, causing a delay of codes working. The algorithm will be fully open-source very soon.*
 
