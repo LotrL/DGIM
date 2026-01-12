@@ -5,7 +5,7 @@ Paper Link: https://ieeexplore.ieee.org/document/11213501
 
 ## 💾 Model Weights
 
-Google Drive: https://drive.google.com/drive/folders/1R4u8TBHzcv8dM1vTRyKwFxS7dCeAd31q?usp=drive_link
+Google Drive: https://drive.google.com/drive/folders/1bpHc09QDIr3idgPMNupS30NeLzGuqjh-?usp=drive_link
 
 Baidu Netdisk: https://pan.baidu.com/s/14quWOrtOUOjgzJkAUzBsew?pwd=dgim
 
