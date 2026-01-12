@@ -2,6 +2,7 @@
 
 Paper Link: https://ieeexplore.ieee.org/document/11213501
 
+![image](DGIM.jpg)
 
 ## 💾 Model Weights
 
