@@ -2,7 +2,12 @@
 
 Paper Link: https://ieeexplore.ieee.org/document/11213501
 
-*The authors are busy job hunting for now, causing a delay of codes working. The algorithm will be fully open-source very soon.*
+
+## 💾 Model Weights
+
+Google Drive: https://drive.google.com/drive/folders/1R4u8TBHzcv8dM1vTRyKwFxS7dCeAd31q?usp=drive_link
+
+Baidu Netdisk: https://pan.baidu.com/s/14quWOrtOUOjgzJkAUzBsew?pwd=dgim
 
 
 ## 📦 Datasets Release
