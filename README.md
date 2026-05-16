@@ -13,6 +13,15 @@ Baidu Netdisk: https://pan.baidu.com/s/14quWOrtOUOjgzJkAUzBsew?pwd=dgim
 
 ## 📦 Datasets Release
 
+*** Training database ***
+
+Google Drive: https://drive.google.com/drive/folders/1sMWudiDA2u7STSZuzm0Pg0IxtzNyYkeq?usp=sharing
+
+Baidu Netdisk: https://pan.baidu.com/s/1jtLJpzS-PvJDvDrxT2uWgw?pwd=1hup
+
+
+*** Testing dataset ***
+
 Google Drive: https://drive.google.com/file/d/1cL0vBICIOQEPPJcJe7X89U4nRZWifRLU/view?usp=drive_link
 
 Baidu Netdisk: https://pan.baidu.com/s/13u5VHJXNHewwRtT8EburRA?pwd=dgim
