@@ -4,6 +4,8 @@ Paper Link: https://ieeexplore.ieee.org/document/11213501
 
 ![image](assets/architecture.png)
 
+<br>
+
 ## 💾 Model Weights
 
 Google Drive: https://drive.google.com/drive/folders/1bpHc09QDIr3idgPMNupS30NeLzGuqjh-?usp=drive_link
